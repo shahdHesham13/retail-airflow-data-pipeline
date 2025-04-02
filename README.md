@@ -2,7 +2,7 @@
 # Airflow Data Pipeline
 **End-to-End ETL Pipeline with PostgreSQL & Automated Reporting**  
 
-[Imgur](https://i.imgur.com/wyaIthH.png)
+<a href="https://imgur.com/wyaIthH"><img src="https://i.imgur.com/wyaIthH.png" title="source: imgur.com" /></a>
 
 ## Overview
 This Airflow DAG automates the generation of synthetic commerce data (customers, products, stores, transactions), loads it into PostgreSQL, calculates business metrics, and emails a valuable business insights report.
@@ -37,4 +37,4 @@ This pipeline creates a seamless, production-grade workflow.
 5. **Cleanup**  
    - Deletes all generated CSV/temp files  
 
-[Imgur](https://i.imgur.com/CFz6SZl.png)
+<a href="https://imgur.com/CFz6SZl"><img src="https://i.imgur.com/CFz6SZl.png" title="source: imgur.com" /></a>
